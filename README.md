@@ -1,5 +1,7 @@
 # flutter-ux-details
 
+_By [Tahe Ben Said](https://tahebensaid.dev), senior mobile engineer. More apps and tools at [tahebensaid.dev](https://tahebensaid.dev)._
+
 Some apps feel expensive and some feel cheap, even when they do the same thing. A lot of that comes down to five small details:
 
 1. **Undo instead of "Are you sure?"** Delete right away and show a SnackBar with Undo. The dialog only makes sense when the action can't be reversed.
